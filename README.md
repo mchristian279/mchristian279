@@ -1,7 +1,10 @@
 ### Hi there i am Michael Christian 👋
 
-- Site Reliability Engineer
-
+- I currently work as Site Reliability Engineer
+- with 9+ years of experience, designing and implementing finacial mission-critical solutions
+- Extensive experience in Linux and open source software
+- Studying terraform, ansible, k8s, cloud and python
+- Interested in cloud technologies, containers and open source projects
  <div>
   <a href="https://github.com/mchristian279">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
