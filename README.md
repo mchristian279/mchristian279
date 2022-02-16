@@ -3,7 +3,7 @@
 - I currently work as Site Reliability Engineer
 - with 10+ years of experience, designing and implementing finacial mission-critical solutions
 - Extensive experience in Linux and open source software
-- Working with terraform, ansible, k8s, AWS and python
+- Working with DevOps culture, terraform, ansible, k8s, AWS and python
 - Interested in cloud technologies, containers and open source projects
  <div>
   <a href="https://github.com/mchristian279">
