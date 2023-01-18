@@ -3,7 +3,7 @@
 - I currently work as a Data Engineer and am in the process of career migration. I have fond memories of a recent career working as a Site Reliability Engineer 😁
 - with 10+ years of experience, designing and implementing finacial mission-critical solutions
 - Extensive experience in Linux and open source software
-- Working with DevOps culture, terraform, ansible, k8s, AWS and python
+- Working with DevOps culture, terraform, ansible, k8s, cloud architecture, data architecture and python
 - Interested in cloud technologies, containers, data and open source projects
  <div>
   <a href="https://github.com/mchristian279">
