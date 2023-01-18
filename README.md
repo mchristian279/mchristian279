@@ -1,10 +1,10 @@
 ### Hi there i am Michael Christian 👋
 
-- I currently work as Site Reliability Engineer
+- I currently work as a Data Engineer and am in the process of career migration. I have fond memories of a recent career working as a Site Reliability Engineer
 - with 10+ years of experience, designing and implementing finacial mission-critical solutions
 - Extensive experience in Linux and open source software
 - Working with DevOps culture, terraform, ansible, k8s, AWS and python
-- Interested in cloud technologies, containers and open source projects
+- Interested in cloud technologies, containers, data and open source projects
  <div>
   <a href="https://github.com/mchristian279">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
