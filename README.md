@@ -5,11 +5,11 @@
 - Extensive experience in Linux and open source software
 - Working with DevOps culture, terraform, ansible, k8s, cloud architecture, data architecture and python
 - Interested in cloud technologies, containers, data and open source projects
- <div>
+<!--  <div>
   <a href="https://github.com/mchristian279">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchristian279&layout=compact&langs_count=7&theme=light"/>
-</div>
+</div> -->
 <div style="background-color:red;" style="display: inline_block" color="white"><br>
   <img align="center" alt="Aws" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
