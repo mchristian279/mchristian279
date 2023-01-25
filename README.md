@@ -12,8 +12,28 @@
 </div> -->
 
 <div style="display: inline_block"><br>
+  
 <img align="center" alt="mike-aws" height="150" width="60" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" >
 
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" >
+
+<img align="center" alt="mike" height="150" width="60" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" >
 </div>
  
  ##
