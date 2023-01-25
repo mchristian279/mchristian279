@@ -12,7 +12,7 @@
 </div> -->
 
 <div style="display: inline_block"><br>
-<img align="center" alt="mike-aws" height="90" width="60" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" >
+<img align="center" alt="mike-aws" height="150" width="60" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" >
 
 </div>
  
