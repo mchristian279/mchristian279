@@ -5,14 +5,9 @@
 - Extensive experience in Linux and open source software
 - Working with DevOps culture, terraform, ansible, k8s, cloud architecture, data architecture and python
 - Interested in cloud technologies, containers, data and open source projects
- <div>
-  <a href="https://github.com/mchristian279">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchristian279&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+##
 
-<div>
-  
+<div>  
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" >
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" >
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" >
@@ -34,7 +29,13 @@
   <a href="https://www.linkedin.com/in/michael-reis-ba9b1441/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <!-- ![Snake animation](https://github.com/mchristian279/mchristian279/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
   
+##
+
+ <div>
+  <a href="https://github.com/mchristian279">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchristian279&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
