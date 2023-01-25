@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchristian279&layout=compact&langs_count=7&theme=light"/>
 </div> -->
 
-<div style="display: inline_block"><br>
+<div>
   
 <img align="center" alt="mike-aws" height="150" width="60" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" >
 
