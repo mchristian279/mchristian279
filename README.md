@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchristian279&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchristian279&layout=compact&langs_count=7&theme=light"/>
 </div> -->
-<div style="background-color:red;" style="display: inline_block" color="white">
+<div>
 
 https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white
 
